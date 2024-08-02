@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Waheed</h1>
 <h3 align="center">Software Developer | Problem Solver | Teacher</h3>
 
-<img align="right" alt="coding" width="200" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding" width="280" height="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza042&label=Profile%20views&color=0e75b6&style=flat" alt="hamza042" /> </p>
 
